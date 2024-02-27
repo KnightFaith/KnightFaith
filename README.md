@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnightFaith
-- I'm a simple 3rd year student trying to survive in the Wild world of programming.
+- I'm a simple 4th year student trying to survive in the Wild world of programming.
 - Currently having 3 project that i'm doing either for fun or to learn tech and make money, like all of us...
 
 
